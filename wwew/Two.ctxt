@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=void\ triangle(int)
+comment1.params=n
+comment1.target=void\ reverseTriangle(int)
+comment2.params=n
+comment2.target=void\ printStars(int)
+numComments=3
